@@ -1,3 +1,3 @@
 class openidm {
-  include openidm::install, openidm::config
+  include openidm::params, openidm::install, openidm::config
 }
